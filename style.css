@@ -77,3 +77,17 @@ body {
     color: #111;
     margin-bottom: 10px;
 }
+@media print {
+    body {
+        background: white;
+    }
+
+    .container {
+        box-shadow: none;
+    }
+
+    img {
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+    }
+}
