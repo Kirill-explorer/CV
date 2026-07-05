@@ -53,3 +53,27 @@ p, li {
 ul {
     padding-left: 20px;
 }
+
+body {
+    background: #e9ecef;
+}
+
+.container {
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+    border-radius: 12px;
+}
+
+.header {
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 20px;
+}
+
+.photo {
+    border: 2px solid #ddd;
+}
+
+.block h3 {
+    color: #111;
+    margin-bottom: 10px;
+}
