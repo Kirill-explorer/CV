@@ -27,3 +27,29 @@ body {
 .block {
     margin-top: 20px;
 }
+h1 {
+    margin: 0;
+    font-size: 28px;
+}
+
+h2 {
+    margin: 5px 0;
+    font-size: 18px;
+    color: #444;
+}
+
+h3 {
+    border-left: 4px solid #333;
+    padding-left: 10px;
+    margin-top: 25px;
+}
+
+p, li {
+    font-size: 14px;
+    line-height: 1.6;
+    color: #222;
+}
+
+ul {
+    padding-left: 20px;
+}
