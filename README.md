@@ -3,8 +3,7 @@
 Сайт-резюме QA Engineer, сделанный на HTML + CSS.
 
 ## Ссылка на сайт
-(после включения GitHub Pages сюда появится ссылка)
-
+https://kirill-explorer.github.io/CV/
 ## Технологии
 - HTML
 - CSS
